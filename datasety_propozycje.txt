@@ -1,0 +1,23 @@
+Niektóre sa bardzo duże, ale możemy wybrać z nich losowo np. 10 000 próbek i powinno być git
+
+1) Customer Churn
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+2) Kiskstarter Projects
+https://www.kaggle.com/datasets/ulrikthygepedersen/kickstarter-projects
+
+3) Diabetes Dataset - Pima Indians
+https://www.kaggle.com/datasets/nancyalaswad90/review
+
+4) Predict students' dropout and academic success
+Tu są 3 klasy, ale możemy wyrzucić te z klasą 'other'
+https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
+
+5) Toxic Tweets Dataset (to jest NLP może być ciekawe ale trzeba zobaczyć ile się to będzie liczyc)
+
+https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset
+
+
+
+
+
